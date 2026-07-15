@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Data
+data/raw/*.csv
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+
+# Generated figures
+reports/figures/*.png
